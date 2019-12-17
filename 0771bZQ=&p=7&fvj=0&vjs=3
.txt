@@ -1,0 +1,54 @@
+This position is responsible for developing, managing and supporting new and existing databases, data models and ETL scripts to support operational reporting, management decision support and advanced analytics.
+The associate is part of a team responsible for conducting a broad range of analytics data management functions including development, scheduling, job optimization, version control management, data quality management, and issue resolution. This associate works closely with analytics teams and technology partners as part of a complete data and analytics lifecycle.
+
+Maintain library of automated SQL scripts to support Service Level Agreements and Expectations
+Support QAE, UAT and production releases for either Technology or internal solutions
+Create and manage multiple versions of code in an iterative development environment as well as incremental changes over time
+Troubleshoot and work on resolving data issues and alerts including automation, connections and Data Governance quality issue and rule creation
+Centralized point of contact for reporting tools, data automation process and analytics tool for organization
+Provide support to analysts and team members on data management tools and techniques
+Partner with analysts to optimize operational processes
+Collaborate with analysts and data scientists to use expanded data sets and query techniques
+Provide support for training and workshops that provide data management best practices to the analyst community
+Support adoption of data and dashboard certification standards
+Collect and refine data from disparate data sources from internal and external system to support business requirements
+Work with Technology partners to set up data connection to create ETL’s and ELT’s to reporting platforms
+Collaborate with Technology partners to identify, establish, coordinate and test new data creation
+Define, map and document, and test new data sources
+Conduct ad hoc data mining and data profiling activities
+Ability to build mutually beneficial relationships with analysts, and being technically sound to understand reporting needs
+Ability to “run with” and complete a project with minimal guidance with a bias toward speed and automation, while being aware of data quality needs
+Create and implement datasets for BI tools to support management and operational reporting needs
+Establish custom datasets to support ad hoc analyses and data science initiatives
+Creating prototype/ad hoc solutions for data and analysis exploration
+Develop and promote automate data transformation solutions such as Airflow/BitBucket and Giraffe/Python applications
+Understanding of how to turn data into business-value stories such that they can set up enabling data infrastructure
+Being proactive to solve data access problems and taking initiative
+Strong communication and leadership experience with some Project MGT/Agile knowledge and analytics skill expertise
+Review, test and document functionality changes to processes, tools and architecture
+Review and test new tools for unstructured data and text analytics
+Partner with Data Governance to support the adoption of data quality, metadata, data profiling, and MDM tools and practices
+Collaborate with business and Technology partners to support enterprise data strategy
+Being proactive to solve data access problems and taking initiative to turn data to business value stories
+
+Bachelor’s degree or equivalent work experience
+Experience with data movement (ETL, ELT) techniques
+Experience in managing data sets and KPI reporting needs
+Experience in data profiling, data mining and analysis
+Working knowledge of data warehouses and related data platforms
+Ability to develop and tune SQL based servers
+Ability to adapt to and work with multiple programming tools and languages including SQL, Python, VBA, R and SAS
+Experience with various data management tools including Global IDs and Informatica
+Ability to read, write and understand SQL queries
+Ability to analyze large and/or unstructured datasets
+Interest in using big data tools and techniques including NoSQL, Hadoop and open source big data tools
+Experience with or aptitude to work with IBM Puredata (Netezza) analytics data warehouse appliance
+Ability to develop datasets to support advanced analytics and reporting
+Must be Business-Centric, Data-Oriented, Analytically Minded and Results Driven
+Strong levels of curiosity and perseverance
+Must be a natural self-starter with ability to work autonomously
+Must be able to effectively plan and manage responsibilities
+Effective communication skills to manage expectations and challenges
+Strong critical thinking skills to scope and frame problems
+Displays excellent judgement to understand and support business needs
+Effective interpersonal and relationship building skills to effectively work with teammates and business partners

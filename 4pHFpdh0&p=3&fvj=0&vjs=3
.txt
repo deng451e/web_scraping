@@ -1,0 +1,26 @@
+Description
+The Senior Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Senior Data Scientist work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.
+Responsibilities
+The Senior Data Scientist uses mathematics, statistics, modeling, business analysis, and contemporary advanced analytics tools and techniques as well as technology to transform high volumes of complex data into analytic solutions. The Senior Data Scientist work assignments are varied and therefore frequently require considerable domain and business knowledge in interpretation and independent determination of the appropriate courses of action.
+The Senior Data Scientist develops, maintains, and collects structured and unstructured data sets for analysis and reporting. Creates reports, projections, models, and presentations to support business strategy and tactics. Understands department, segment, and enterprise strategies and operational objectives, including their linkages to related areas. Makes decisions regarding own work methods, often in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.
+Expectations from a person in the Senior Data Scientists role:
+Influences Department Strategy, leveraging his/her domain/business knowledge
+Makes decisions on approach using discretion and independent judgment
+Operates in ambiguous situations and is proactive
+Makes recommendations involving other functions/other business units
+Works with limited guidance and little day-to-day instruction
+Applies extensive in depth or broad knowledge and performs variety of difficult assignments
+Regularly uses advanced analytics concepts/technologies and applies the knowledge to impact business
+Qualifications
+Master's Degree w/ 4-5 years of relevant experience or Bachelor's Degree w/ 6 - 8 years of relevant experience
+Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions
+Experience in creating reports, projections, models, and presentations to senior leadership and business partners
+Experience in extracting, developing, maintaining, and leveraging structured and unstructured datasets for analysis and reporting
+Possesses an understanding of department, segment, and enterprise strategies and operational objectives, including their linkages to related areas
+Capable of making decisions regarding own work methods, occasionally in ambiguous situations
+Asks inquisitive questions and has what-else-can-be-done-with-this-data mindset and curiosity
+Independent and collaborative, comfortable to take on complex projects and drive end-to-end data/analytical solution
+Proficient in contemporary analytical/visualization tools such as Python, Natural Language Processing (NLP), AI/Deep/Machine Learning, Neural networks, MS Office Suite (Excel, Access etc.), Power BI, Tableau, SQL, R etc.
+Prefer candidates with knowledge/experience with designing Recommender systems and Next Best Offer technology solutions
+Scheduled Weekly Hours
+40

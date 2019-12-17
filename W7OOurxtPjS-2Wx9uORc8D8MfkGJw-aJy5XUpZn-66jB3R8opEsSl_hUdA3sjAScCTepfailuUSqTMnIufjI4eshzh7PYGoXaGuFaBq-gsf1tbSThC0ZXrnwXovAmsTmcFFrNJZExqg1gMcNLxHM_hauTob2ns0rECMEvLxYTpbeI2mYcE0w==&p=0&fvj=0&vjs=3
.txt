@@ -1,0 +1,27 @@
+Description
+
+TrinityRail is searching for a Data Scientist in our Dallas, TX office!. The successful candidate will turn data into information, information into insight and insight into business decisions. The data scientist should have experience in data mining and transformation, creating visualizations, and statistical analysis. Presentation skills are required to review variance explanations, explain models, and lead conversations with the leadership team. #nowhiring
+
+What you'll do:
+Work with stakeholders and subject matter experts to derive and understand business outcomes
+Assist in generating hypothesis that drives strategic questions about the leasing business
+Works with data engineers to facilitate technical design of complex data sourcing, transformation and aggregation logic, ensuring business analytics requirements are met
+Possess strong competencies with SQL (or related query languages) and data transformation tools to understand and prepare data
+Brings deep expertise in data visualization tools such as Qliksense and techniques in translating business analytics needs into data visualization and semantic data access requirements
+Statistical knowledge of evaluating the usefulness and relevance of model outputs
+Build and refine statistical models to gain better insight (primarily R Studio or Python)
+Machine learning and Artificial Intelligence experience is a plus
+Qualifications
+
+What you'll need:
+Bachelor’s Degree in Mathematics, Economics, Computer Science, Information Management, Statistics, Finance or Accounting, Masters preferred
+5+ years relevant experience or 3+ years with Masters
+Advanced skills in Visualization, SQL, R, Microsoft Excel, PowerPoint, and at a minimum intermediate experience in all other Microsoft Office Products
+Technical expertise regarding data models, database design/Development, data mining and other segmentation techniques
+Interpret data, analyze results using statistical techniques and provide ongoing reports
+Must possess effective communication skills, both verbal and written
+Strong organizational, time management and multi-tasking skills
+Experience with data conversion, interface and report development
+Adept at queries, report writing and presenting findings
+Process improvement and automation a plus
+Work with management to prioritize business and information needs
